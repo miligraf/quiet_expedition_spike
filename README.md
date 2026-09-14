@@ -1,8 +1,8 @@
-# Cloudhaven Web Build
+# Cloudhaven — playable web build
 
-This public repository contains the compiled Flutter Web artifact for Cloudhaven's browser-first prototype.
+This repository contains the compiled Flutter Web artifact for phone and browser testing.
 
-- Playable build: https://miligraf.github.io/quiet_expedition_spike/
-- Private source repository: https://github.com/miligraf/cloudhaven-source
+- Play: https://miligraf.github.io/quiet_expedition_spike/
+- Private source: https://github.com/miligraf/cloudhaven-source
 
-Source code and tests are maintained in the private repository. This repository is deployment-only.
+The build is an offline-first exploration-game prototype. Runtime image generation and network services are not required.
